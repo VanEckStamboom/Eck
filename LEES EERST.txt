@@ -1,0 +1,31 @@
+met behulp van online programma HTTrack een cpoy gemaakt van website
+
+de linker zoekbalk vervalt dan, waardoor index.html niet nodig is, maar ook start.html voldoet
+
+de drie bestanden in deze map:
+start.html
+achtergrond2a.jpg
+aldfaergraphic.css
+
+deze kunnen naar iemand gestuurd worden via mail of chat
+ingepakt in rar of eventueel niet ingepakt
+wel moet dan vermeld worden aan de ontvanger, dat de bestanden in 1 map gezet moeten worden
+
+de bestanden in de map Niet Echt Nodig geven soms problemen bij verzenden, en zijn uitsluitend voor opmaak
+(pop-up bij aanwijzen van naam op website)
+Deze hoeven dus niet verzonden te worden
+
+Op deze manier blijft de website toch nog te bekijken en werken ook de Google-drive-links nog
+
+Aan de ontvanger moet vermeld worden, dat het bestand start.html moet worden aangeklikt om de website te starten
+
+
+
+in start.html op 6 juli 2021 de email helemaal onderaan aangepast van vaneck@manuelaedwin.nl naar manuelaedwin@gmail.com
+
+met dank aan Chris Schults in de facebookgroep Genealogie/ Stamboom Onderzoek
+
+
+
+
+
